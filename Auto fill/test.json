@@ -1,0 +1,11 @@
+{
+    "name": "Auto Fill extension",
+    "version" : "1.0.0",
+    "description" : "demo",
+    "manifest_version": 2,
+     "browser_action" : {
+        "defalut_popup": "demo.html",
+        "default_icon": "circle-cropped (4).png"
+    }
+
+}
